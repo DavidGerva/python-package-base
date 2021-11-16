@@ -1,2 +1,5 @@
-# python-package-base
-Starting point code for a new python package
+# package name
+
+## installation
+
+pip install git+ssh://git@....git
